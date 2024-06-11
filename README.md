@@ -5,7 +5,9 @@
 [![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ.mp4)
 
 
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+  <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg" alt="alt text">
+</a>
 
 ## [SDF02] CodeSpace Cafe Debugging Challenge
 
