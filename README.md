@@ -19,7 +19,8 @@ Your task is to debug the CSS at CodeSpace Cafe so that the pastries are neatly 
 ### The Problem
  The HTML includes a counter and four pastry elements, but they are not properly spaced and overlap each other. 
 
-![[Pasted image 20240226135512.png]]
+
+
 ### The Solution
 
 Your goal is to identify and fix the CSS properties causing the overlap and ensure that the pastries are positioned in a straight line on the counter, spaced evenly apart like so:
@@ -37,13 +38,13 @@ Your task is to debug the CSS at CodeSpace Cafe so that the pastries are neatly 
 ### The Problem
  The HTML includes a counter and four pastry elements, but they are not properly spaced and overlap each other. 
 
-![alt text](./images/problem.png)
+![alt text](https://github.com/CodeSpace-Team/sdf-project-solutions/blob/main/%5BSDF02%5D%20Basic%20CSS/images/problem.png)
 
 ### The Solution
 
 Your goal is to identify and fix the CSS properties causing the overlap and ensure that the pastries are positioned in a straight line on the counter, spaced evenly apart like so:
 
-![alt text](./images/solution.png)
+![alt text](https://github.com/CodeSpace-Team/sdf-project-solutions/blob/main/%5BSDF02%5D%20Basic%20CSS/images/solution.png)
 
 #### **Getting Started**
 
@@ -64,7 +65,7 @@ You have everything you need to start your project using the CodePen starter pro
 1. Submit your CodePen link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 2. You will submit this project just like you did in Module 1 by copying your forked CodePen link and submitting it to the LMS. 
 
-![[SDF02Submission-ezgif.com-video-to-gif-converter (1).gif]]
+
 
 #### **Getting Started**
 
@@ -85,4 +86,4 @@ You have everything you need to start your project using the CodePen starter pro
 1. Submit your CodePen link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 2. You will submit this project just like you did in Module 1 by copying your forked CodePen link and submitting it to the LMS. 
 
-![alt text](./images/SDF02Submission.gif)
+![alt text](https://github.com/CodeSpace-Team/sdf-project-solutions/blob/main/%5BSDF02%5D%20Basic%20CSS/images/SDF02Submission.gif)
