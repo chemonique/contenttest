@@ -1,8 +1,8 @@
 ![alt text](https://codespace.ams3.digitaloceanspaces.com/lesson/2012/embedded/Learning%20Objectives-small.png)
 ![alt text](https://www.loomly.com/hs-fs/hubfs/Imported_Blog_Media/earth-Apr-03-2024-12-19-31-1897-AM.gif?width=540&height=540&name=earth-Apr-03-2024-12-19-31-1897-AM.gif)
-[![alt text](https://img.youtube.com/vi/_z-1fTlSDF0?si=pM6d6S82gJB0xg3e/0.jpg)](https://www.youtube.com/watch?v=_z-1fTlSDF0&t=24s)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![alt text](https://img.youtube.com/vi/_z-1fTlSDF0/0.jpg)](https://www.youtube.com/watch?v=_z-1fTlSDF0)
+
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ.mp4)
 
 
 
