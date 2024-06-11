@@ -1,6 +1,6 @@
 ![alt text](https://codespace.ams3.digitaloceanspaces.com/lesson/2012/embedded/Learning%20Objectives-small.png)
 ![alt text](https://img.freepik.com/free-photo/handshake-icon-concept-partnership-agreement_107791-16725.jpg)
-https://img.freepik.com/free-photo/handshake-icon-concept-partnership-agreement_107791-16725.jpg
+
 ## [SDF02] CodeSpace Cafe Debugging Challenge
 
 Congratulations on completing the Basic CSS course content! You've made awesome progress and now you're a CSS champion. As you now start on your project, remember that this is your opportunity to showcase everything you've learned. 
