@@ -1,7 +1,7 @@
 ![alt text](https://codespace.ams3.digitaloceanspaces.com/lesson/2012/embedded/Learning%20Objectives-small.png)
 ![alt text](https://www.loomly.com/hs-fs/hubfs/Imported_Blog_Media/earth-Apr-03-2024-12-19-31-1897-AM.gif?width=540&height=540&name=earth-Apr-03-2024-12-19-31-1897-AM.gif)
 [![alt text](https://img.youtube.com/vi/_z-1fTlSDF0/0.jpg)](https://www.youtube.com/watch?v=_z-1fTlSDF0)
-![alt text](https://github.com/CodeSpace-Team/sdf-project-solutions/blob/main/%5BSDF02%5D%20Basic%20CSS/images/solution.png?raw=true)
+
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
@@ -41,13 +41,34 @@ Your task is to debug the CSS at CodeSpace Cafe so that the pastries are neatly 
 ### The Problem
  The HTML includes a counter and four pastry elements, but they are not properly spaced and overlap each other. 
 
-![alt text](https://github.com/CodeSpace-Team/sdf-project-solutions/blob/main/%5BSDF02%5D%20Basic%20CSS/images/problem.png?raw=true)
+![alt text](https://raw.githubusercontent.com/CodeSpace-Team/sdf-project-solutions/main/%5BSDF02%5D%20Basic%20CSS/images/problem.png?token=GHSAT0AAAAAACS4EVDY26E4ZKDSDLRMKI6UZTII7VQ)
 # test
 
 ### The Solution
 
 Your goal is to identify and fix the CSS properties causing the overlap and ensure that the pastries are positioned in a straight line on the counter, spaced evenly apart like so:
 
+![alt text](https://raw.githubusercontent.com/CodeSpace-Team/sdf-project-solutions/main/%5BSDF02%5D%20Basic%20CSS/images/solution.png?token=GHSAT0AAAAAACS4EVDY466NIVUZFUFOV6RMZTIJA6A)
+
+#### **Getting Started**
+
+You have everything you need to start your project using the CodePen starter project. This CodePen contains the HTML with all the pastry elements and the CSS you need to debug. Do not change the HTML code.
+
+- **Starter Code on CodePen:** [[SDF02] CodeSpace Cafe Debugging Challenge (codepen.io)](https://codepen.io/codespace-academy/pen/VwRoeBp)
+#### What to Do
+
+1. **Debugging Task:** Review the provided HTML and CSS code. Identify the CSS properties causing the pastries to overlap and adjust them to ensure proper spacing and layout. You should aim to position the pastries in a straight line on the counter, spaced evenly apart.
+   
+**Guidelines:**
+
+- Focus on identifying and fixing the CSS properties causing the overlap.
+- Ensure the pastries are positioned in a straight line on the counter, spaced evenly apart.
+
+**HOW to submit your project**
+
+1. Submit your CodePen link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
+2. You will submit this project just like you did in Module 1 by copying your forked CodePen link and submitting it to the LMS. 
+
 
 
 #### **Getting Started**
@@ -69,25 +90,4 @@ You have everything you need to start your project using the CodePen starter pro
 1. Submit your CodePen link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
 2. You will submit this project just like you did in Module 1 by copying your forked CodePen link and submitting it to the LMS. 
 
-
-
-#### **Getting Started**
-
-You have everything you need to start your project using the CodePen starter project. This CodePen contains the HTML with all the pastry elements and the CSS you need to debug. Do not change the HTML code.
-
-- **Starter Code on CodePen:** [[SDF02] CodeSpace Cafe Debugging Challenge (codepen.io)](https://codepen.io/codespace-academy/pen/VwRoeBp)
-#### What to Do
-
-1. **Debugging Task:** Review the provided HTML and CSS code. Identify the CSS properties causing the pastries to overlap and adjust them to ensure proper spacing and layout. You should aim to position the pastries in a straight line on the counter, spaced evenly apart.
-   
-**Guidelines:**
-
-- Focus on identifying and fixing the CSS properties causing the overlap.
-- Ensure the pastries are positioned in a straight line on the counter, spaced evenly apart.
-
-**HOW to submit your project**
-
-1. Submit your CodePen link through the LMS. Remember to rename your project with your student number, group number and coach name. You will find this in the LMS [**[Projects](https://learn.codespace.co.za/projects)**] tab.
-2. You will submit this project just like you did in Module 1 by copying your forked CodePen link and submitting it to the LMS. 
-
-![alt text](https://github.com/CodeSpace-Team/sdf-project-solutions/blob/main/%5BSDF02%5D%20Basic%20CSS/images/SDF02Submission.gif?raw=true)
+![alt text](https://raw.githubusercontent.com/CodeSpace-Team/sdf-project-solutions/main/%5BSDF02%5D%20Basic%20CSS/images/SDF02Submission.gif?token=GHSAT0AAAAAACS4EVDZYR57OX6CNXHFBU2GZTIJBNA)
