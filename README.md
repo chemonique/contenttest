@@ -1,6 +1,7 @@
 ![alt text](https://codespace.ams3.digitaloceanspaces.com/lesson/2012/embedded/Learning%20Objectives-small.png)
 ![alt text](https://www.loomly.com/hs-fs/hubfs/Imported_Blog_Media/earth-Apr-03-2024-12-19-31-1897-AM.gif?width=540&height=540&name=earth-Apr-03-2024-12-19-31-1897-AM.gif)
 [![alt text](https://img.youtube.com/vi/_z-1fTlSDF0/0.jpg)](https://www.youtube.com/watch?v=_z-1fTlSDF0)
+![alt text](https://github.com/CodeSpace-Team/sdf-project-solutions/blob/main/%5BSDF02%5D%20Basic%20CSS/images/solution.png?raw=true)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank">
@@ -47,7 +48,7 @@ Your task is to debug the CSS at CodeSpace Cafe so that the pastries are neatly 
 
 Your goal is to identify and fix the CSS properties causing the overlap and ensure that the pastries are positioned in a straight line on the counter, spaced evenly apart like so:
 
-![alt text](https://github.com/CodeSpace-Team/sdf-project-solutions/blob/main/%5BSDF02%5D%20Basic%20CSS/images/solution.png?raw=true)
+
 
 #### **Getting Started**
 
