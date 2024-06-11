@@ -1,5 +1,5 @@
 
-![alt text](./images/solution.png)
+![alt text]([./images/solution.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codespace.co.za%2Fprivacy%2F&psig=AOvVaw2x_reyDTlzFwz2f8lYVlvt&ust=1718179399392000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKia4JiL04YDFQAAAAAdAAAAABAJ))
 The Solution
 Your goal is to identify and fix the CSS properties causing the overlap and ensure that the pastries are positioned in a straight line on the counter, spaced evenly apart like so:
 
