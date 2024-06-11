@@ -1,5 +1,11 @@
 ![alt text](https://codespace.ams3.digitaloceanspaces.com/lesson/2012/embedded/Learning%20Objectives-small.png)
-![alt text](https://img.freepik.com/free-photo/handshake-icon-concept-partnership-agreement_107791-16725.jpg)
+![alt text](https://www.loomly.com/hs-fs/hubfs/Imported_Blog_Media/earth-Apr-03-2024-12-19-31-1897-AM.gif?width=540&height=540&name=earth-Apr-03-2024-12-19-31-1897-AM.gif)
+[![alt text](https://img.youtube.com/vi/_z-1fTlSDF0?si=pM6d6S82gJB0xg3e/0.jpg)](https://www.youtube.com/watch?v=_z-1fTlSDF0&t=24s)
+[<img src="https://img.youtube.com/vi/_z-1fTlSDF0?si=pM6d6S82gJB0xg3e/0.jpg" width="50%">](https://www.youtube.com/watch?v=_z-1fTlSDF0&t=24s)
+[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
+
 
 ## [SDF02] CodeSpace Cafe Debugging Challenge
 
